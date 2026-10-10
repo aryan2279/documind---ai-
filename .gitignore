@@ -1,0 +1,27 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Uploaded PDFs
+uploads/
+
+# ChromaDB Storage
+chroma_db/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
