@@ -98,5 +98,5 @@ User Query
 
 ## Author
 
-Aakriti Vishnoi
+Aryan Dev
 
